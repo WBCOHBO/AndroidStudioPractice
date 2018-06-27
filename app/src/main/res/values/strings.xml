@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">幹話建議</string>
+    <string name="sex">性別</string>
+    <string name="age">年齡</string>
+    <string name="age_hint">(輸入年齡)</string>
+    <string name="btn_ok">確定</string>
+    <string name="suggest">建議：</string>
+    <string name="sex_hint">(輸入性別)</string>
+    <string name="sug_not_hurry">單身狗加油可以轉職囉</string>
+    <string name="sex_male">man</string>
+    <string name="sug_get_married">恭喜成為大法師</string>
+    <string name="sug_find_couple">單身狗</string>
+
+</resources>
